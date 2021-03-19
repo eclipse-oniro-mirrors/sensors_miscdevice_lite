@@ -9,9 +9,9 @@ Misc devices, including vibrators and LED lights, are used to send signals exter
 
 ## Repositories Involved<a name="section539917374284"></a>
 
-Pan-sensor subsystem
+[Pan-sensor subsystem](https://gitee.com/openharmony/docs/blob/master/en/readme/pan-sensor.md)
 
-hmf/sensors/sensor\_lite
+[sensors_sensor_lite](https://gitee.com/openharmony/sensors_sensor_lite/blob/master/README.md)
 
-**hmf/sensors/miscdevice\_lite**
+**sensors_miscdevice_lite**
 
